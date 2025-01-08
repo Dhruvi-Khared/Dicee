@@ -1,3 +1,3 @@
 # Dicee
 Dicee challenge <br>
-Author = Dhruvi
+Author = Dhruvi Khared
